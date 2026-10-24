@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Olist CSVs (~120 MB) are downloaded from Kaggle, not redistributed; see README.
+data/raw/
+*.duckdb
+*.duckdb.wal
+.tmp/
